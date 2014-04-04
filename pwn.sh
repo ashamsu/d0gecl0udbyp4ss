@@ -70,5 +70,5 @@ sleep 120
 echo "Waiting on Device..."
 sleep 2
 echo "Activation Bypass was a success! Your device will reboot soon. This may take up to 30 mintues. You can now exit this utility."
-sleep 30
+sleep 1
 echo "APRIL FOOLS KIDS!!! xD!!!"
