@@ -1,5 +1,7 @@
 HOW TO USE d0gecl0udbyp4ss:
 
+FIRST plug in your device...
+
 On Mac OS:
 -Open up Terminal
 -enter in the following: /Users/(username)/Downloads/d0gecl0udbyp4ss-master/pwn.sh and hit enter
