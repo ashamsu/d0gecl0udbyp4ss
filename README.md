@@ -9,7 +9,8 @@ To run this, just open up Terminal and enter in /Users/(username)/Downloads/d0ge
 
 If you saved it elsewhere, just change /Downloads/ to wherever. So if you saved the folder to Desktop, then enter in /Desktop/ instead of /Downloads/
 
-This runs on Mac OS X and Linux ONLY! I made it in bash script to porting over to Windows might take a while, but I'll get around to doing it soon I guess. Or if you are using Windows, you can try using Cygwin to run the script. 
+To run in Windows, just unzip the folder and run pwn.bat
+
 
 
 Thanks for your support!
