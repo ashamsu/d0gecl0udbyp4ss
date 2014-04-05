@@ -70,3 +70,4 @@ timeout /t 3 /nobreak > NUL
 echo Activation Bypass was a success! Your device will reboot soon. This may take up to 30 mintues. You can now exit this utility. >&2
 timeout /t 30 /nobreak > NUL
 echo APRIL FOOLS KIDS!!! xD!!! >&2
+timeout /t 30 /nobreak > NUL
